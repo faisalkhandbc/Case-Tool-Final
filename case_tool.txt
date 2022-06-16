@@ -1,0 +1,7 @@
+Q1) Execute the following commands:
+1) Reset Command
+2) Push and Pull Command
+
+Q2) Write Java method to perform following program, test and execute
+1) Write Java code to find factorial of n-number.
+2) Create Javadoc for the given program.
